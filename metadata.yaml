@@ -1,0 +1,31 @@
+_repo: Some-Experiments-Concerning-Mercury_63318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boerhaave, Herman
+    aliases:
+    - Boerhaave, J. Herman
+    - Boerhaave, Hermanus
+    - Boerhaave, Hermann
+    - Boerhaave, J. H.
+    - Boerhaave, H. (Herman)
+    birthdate: 1668
+    deathdate: 1738
+    gutenberg_agent_id: '6193'
+    url: http://www.gutenberg.org/2009/agents/6193
+    wikipedia: https://en.wikipedia.org/wiki/Herman_Boerhaave
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mercury'
+- !lcc 'QD'
+- GITenberg
+title: Some Experiments Concerning Mercury
+url: http://www.gutenberg.org/ebooks/63318
